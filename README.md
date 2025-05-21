@@ -1,6 +1,9 @@
 # 🌍 **Travelgram**
 Projeto desenvolvido durante a formação Fullstack da Rocketseat, com o objetivo de criar uma página de perfil de viagens, onde o usuário pode compartilhar fotos, destinos visitados e mostrar um pouco da sua experiência como viajante.
 
+![Página do Figma para Desenvolvimento do Travelgram](./assets/capa-figma.png)
+
+
 ## ✨ **Sobre o projeto**
 O Travelgram é uma aplicação estilo rede social de viagens, onde é possível visualizar um perfil com:
 
